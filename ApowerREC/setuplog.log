@@ -1,0 +1,1001 @@
+﻿2023-05-07 15:08:31.983   Log opened. (Time zone: UTC-03:00)
+2023-05-07 15:08:31.983   Setup version: Inno Setup version 6.0.2 (u)
+2023-05-07 15:08:31.983   Original Setup EXE: C:\Users\JONATA~1.FER\AppData\Local\Temp\installer.exe
+2023-05-07 15:08:31.983   Setup command line: /SL5="$B502B0,36485270,913408,C:\Users\JONATA~1.FER\AppData\Local\Temp\installer.exe" /VERYSILENT /SUPPRESSMSGBOXES /FORCECLOSEAPPLICATIONS /DIR="C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC" /LANG=PortugueseBrazil
+2023-05-07 15:08:31.983   Windows version: 10.0.19045  (NT platform: Yes)
+2023-05-07 15:08:31.983   64-bit Windows: Yes
+2023-05-07 15:08:31.983   Processor architecture: x64
+2023-05-07 15:08:31.983   User privileges: Administrative
+2023-05-07 15:08:31.993   Administrative install mode: Yes
+2023-05-07 15:08:31.993   Install mode root key: HKEY_LOCAL_MACHINE
+2023-05-07 15:08:31.993   64-bit install mode: No
+2023-05-07 15:08:31.993   Created temporary directory: C:\Users\JONATA~1.FER\AppData\Local\Temp\is-AIPV3.tmp
+2023-05-07 15:08:32.013   -- DLL function import --
+2023-05-07 15:08:32.013   Function name: isxdl_AddFile
+2023-05-07 15:08:32.013   DLL name: files:isxdl.dll
+2023-05-07 15:08:32.013   Extracting temporary file: C:\Users\JONATA~1.FER\AppData\Local\Temp\is-AIPV3.tmp\isxdl.dll
+2023-05-07 15:08:32.013   Dest DLL name: C:\Users\JONATA~1.FER\AppData\Local\Temp\is-AIPV3.tmp\isxdl.dll
+2023-05-07 15:08:32.013   Importing the DLL function.
+2023-05-07 15:08:32.023   Successfully imported the DLL function. Delay loaded? No
+2023-05-07 15:08:32.023   -- DLL function import --
+2023-05-07 15:08:32.023   Function name: isxdl_DownloadFiles
+2023-05-07 15:08:32.023   DLL name: files:isxdl.dll
+2023-05-07 15:08:32.023   Dest DLL name: C:\Users\JONATA~1.FER\AppData\Local\Temp\is-AIPV3.tmp\isxdl.dll
+2023-05-07 15:08:32.023   Importing the DLL function.
+2023-05-07 15:08:32.023   Successfully imported the DLL function. Delay loaded? No
+2023-05-07 15:08:32.023   -- DLL function import --
+2023-05-07 15:08:32.023   Function name: isxdl_SetOption
+2023-05-07 15:08:32.023   DLL name: files:isxdl.dll
+2023-05-07 15:08:32.023   Dest DLL name: C:\Users\JONATA~1.FER\AppData\Local\Temp\is-AIPV3.tmp\isxdl.dll
+2023-05-07 15:08:32.023   Importing the DLL function.
+2023-05-07 15:08:32.023   Successfully imported the DLL function. Delay loaded? No
+2023-05-07 15:08:32.023   -- DLL function import --
+2023-05-07 15:08:32.023   Function name: _time32
+2023-05-07 15:08:32.023   DLL name: msvcrt.dll
+2023-05-07 15:08:32.023   Dest DLL name: msvcrt.dll
+2023-05-07 15:08:32.023   Importing the DLL function.
+2023-05-07 15:08:32.023   Successfully imported the DLL function. Delay loaded? No
+2023-05-07 15:08:32.141   Calling RestartManager's RmGetList.
+2023-05-07 15:08:32.161   RmGetList finished successfully.
+2023-05-07 15:08:32.161   RestartManager found no applications using one of our files.
+2023-05-07 15:08:32.161   Starting the installation process.
+2023-05-07 15:08:32.161   Directory for uninstall files: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC
+2023-05-07 15:08:32.161   Creating new uninstall log: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\unins000.dat
+2023-05-07 15:08:32.171   -- File entry --
+2023-05-07 15:08:32.171   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\unins000.exe
+2023-05-07 15:08:32.171   Time stamp of our file: 2023-05-07 15:08:31.390
+2023-05-07 15:08:32.171   Installing the file.
+2023-05-07 15:08:32.241   Successfully installed the file.
+2023-05-07 15:08:32.241   -- File entry --
+2023-05-07 15:08:32.241   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Adorners.dll
+2023-05-07 15:08:32.241   Time stamp of our file: 2013-05-28 19:25:42.000
+2023-05-07 15:08:32.241   Installing the file.
+2023-05-07 15:08:32.271   Successfully installed the file.
+2023-05-07 15:08:32.271   -- File entry --
+2023-05-07 15:08:32.271   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Aliyun.Log.dll
+2023-05-07 15:08:32.271   Time stamp of our file: 2023-01-11 13:52:34.000
+2023-05-07 15:08:32.271   Installing the file.
+2023-05-07 15:08:32.281   Successfully installed the file.
+2023-05-07 15:08:32.281   -- File entry --
+2023-05-07 15:08:32.281   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Aliyun.OSS.dll
+2023-05-07 15:08:32.281   Time stamp of our file: 2021-02-07 10:23:08.000
+2023-05-07 15:08:32.281   Installing the file.
+2023-05-07 15:08:32.315   Successfully installed the file.
+2023-05-07 15:08:32.315   -- File entry --
+2023-05-07 15:08:32.315   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-console-l1-1-0.dll
+2023-05-07 15:08:32.315   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.315   Installing the file.
+2023-05-07 15:08:32.315   Successfully installed the file.
+2023-05-07 15:08:32.315   -- File entry --
+2023-05-07 15:08:32.315   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-datetime-l1-1-0.dll
+2023-05-07 15:08:32.315   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.315   Installing the file.
+2023-05-07 15:08:32.315   Successfully installed the file.
+2023-05-07 15:08:32.315   -- File entry --
+2023-05-07 15:08:32.315   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-debug-l1-1-0.dll
+2023-05-07 15:08:32.315   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.315   Installing the file.
+2023-05-07 15:08:32.325   Successfully installed the file.
+2023-05-07 15:08:32.325   -- File entry --
+2023-05-07 15:08:32.325   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-errorhandling-l1-1-0.dll
+2023-05-07 15:08:32.325   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.325   Installing the file.
+2023-05-07 15:08:32.325   Successfully installed the file.
+2023-05-07 15:08:32.325   -- File entry --
+2023-05-07 15:08:32.325   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-file-l1-1-0.dll
+2023-05-07 15:08:32.325   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.325   Installing the file.
+2023-05-07 15:08:32.325   Successfully installed the file.
+2023-05-07 15:08:32.325   -- File entry --
+2023-05-07 15:08:32.325   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-file-l1-2-0.dll
+2023-05-07 15:08:32.325   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.325   Installing the file.
+2023-05-07 15:08:32.325   Successfully installed the file.
+2023-05-07 15:08:32.335   -- File entry --
+2023-05-07 15:08:32.335   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-file-l2-1-0.dll
+2023-05-07 15:08:32.335   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.335   Installing the file.
+2023-05-07 15:08:32.335   Successfully installed the file.
+2023-05-07 15:08:32.335   -- File entry --
+2023-05-07 15:08:32.335   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-handle-l1-1-0.dll
+2023-05-07 15:08:32.335   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.335   Installing the file.
+2023-05-07 15:08:32.335   Successfully installed the file.
+2023-05-07 15:08:32.335   -- File entry --
+2023-05-07 15:08:32.335   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-heap-l1-1-0.dll
+2023-05-07 15:08:32.335   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.335   Installing the file.
+2023-05-07 15:08:32.335   Successfully installed the file.
+2023-05-07 15:08:32.335   -- File entry --
+2023-05-07 15:08:32.335   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-interlocked-l1-1-0.dll
+2023-05-07 15:08:32.335   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.335   Installing the file.
+2023-05-07 15:08:32.335   Successfully installed the file.
+2023-05-07 15:08:32.335   -- File entry --
+2023-05-07 15:08:32.335   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-libraryloader-l1-1-0.dll
+2023-05-07 15:08:32.345   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.345   Installing the file.
+2023-05-07 15:08:32.345   Successfully installed the file.
+2023-05-07 15:08:32.345   -- File entry --
+2023-05-07 15:08:32.345   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-localization-l1-2-0.dll
+2023-05-07 15:08:32.345   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.345   Installing the file.
+2023-05-07 15:08:32.345   Successfully installed the file.
+2023-05-07 15:08:32.345   -- File entry --
+2023-05-07 15:08:32.345   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-memory-l1-1-0.dll
+2023-05-07 15:08:32.345   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.345   Installing the file.
+2023-05-07 15:08:32.345   Successfully installed the file.
+2023-05-07 15:08:32.345   -- File entry --
+2023-05-07 15:08:32.345   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-namedpipe-l1-1-0.dll
+2023-05-07 15:08:32.345   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.345   Installing the file.
+2023-05-07 15:08:32.345   Successfully installed the file.
+2023-05-07 15:08:32.345   -- File entry --
+2023-05-07 15:08:32.345   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-processenvironment-l1-1-0.dll
+2023-05-07 15:08:32.345   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.345   Installing the file.
+2023-05-07 15:08:32.355   Successfully installed the file.
+2023-05-07 15:08:32.355   -- File entry --
+2023-05-07 15:08:32.355   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-processthreads-l1-1-0.dll
+2023-05-07 15:08:32.355   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.355   Installing the file.
+2023-05-07 15:08:32.355   Successfully installed the file.
+2023-05-07 15:08:32.355   -- File entry --
+2023-05-07 15:08:32.355   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-processthreads-l1-1-1.dll
+2023-05-07 15:08:32.355   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.355   Installing the file.
+2023-05-07 15:08:32.355   Successfully installed the file.
+2023-05-07 15:08:32.355   -- File entry --
+2023-05-07 15:08:32.355   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-profile-l1-1-0.dll
+2023-05-07 15:08:32.355   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.355   Installing the file.
+2023-05-07 15:08:32.355   Successfully installed the file.
+2023-05-07 15:08:32.355   -- File entry --
+2023-05-07 15:08:32.355   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-rtlsupport-l1-1-0.dll
+2023-05-07 15:08:32.355   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.355   Installing the file.
+2023-05-07 15:08:32.365   Successfully installed the file.
+2023-05-07 15:08:32.365   -- File entry --
+2023-05-07 15:08:32.365   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-string-l1-1-0.dll
+2023-05-07 15:08:32.365   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.365   Installing the file.
+2023-05-07 15:08:32.365   Successfully installed the file.
+2023-05-07 15:08:32.365   -- File entry --
+2023-05-07 15:08:32.365   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-synch-l1-1-0.dll
+2023-05-07 15:08:32.365   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.365   Installing the file.
+2023-05-07 15:08:32.365   Successfully installed the file.
+2023-05-07 15:08:32.365   -- File entry --
+2023-05-07 15:08:32.365   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-synch-l1-2-0.dll
+2023-05-07 15:08:32.365   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.365   Installing the file.
+2023-05-07 15:08:32.365   Successfully installed the file.
+2023-05-07 15:08:32.365   -- File entry --
+2023-05-07 15:08:32.365   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-sysinfo-l1-1-0.dll
+2023-05-07 15:08:32.365   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.365   Installing the file.
+2023-05-07 15:08:32.365   Successfully installed the file.
+2023-05-07 15:08:32.365   -- File entry --
+2023-05-07 15:08:32.365   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-timezone-l1-1-0.dll
+2023-05-07 15:08:32.375   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.375   Installing the file.
+2023-05-07 15:08:32.375   Successfully installed the file.
+2023-05-07 15:08:32.375   -- File entry --
+2023-05-07 15:08:32.375   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-util-l1-1-0.dll
+2023-05-07 15:08:32.375   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.375   Installing the file.
+2023-05-07 15:08:32.375   Successfully installed the file.
+2023-05-07 15:08:32.375   -- File entry --
+2023-05-07 15:08:32.375   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-core-xstate-l2-1-0.dll
+2023-05-07 15:08:32.375   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.375   Installing the file.
+2023-05-07 15:08:32.375   Successfully installed the file.
+2023-05-07 15:08:32.375   -- File entry --
+2023-05-07 15:08:32.375   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-crt-conio-l1-1-0.dll
+2023-05-07 15:08:32.375   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.375   Installing the file.
+2023-05-07 15:08:32.375   Successfully installed the file.
+2023-05-07 15:08:32.375   -- File entry --
+2023-05-07 15:08:32.375   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-crt-convert-l1-1-0.dll
+2023-05-07 15:08:32.385   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.385   Installing the file.
+2023-05-07 15:08:32.385   Successfully installed the file.
+2023-05-07 15:08:32.385   -- File entry --
+2023-05-07 15:08:32.385   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-crt-environment-l1-1-0.dll
+2023-05-07 15:08:32.385   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.385   Installing the file.
+2023-05-07 15:08:32.385   Successfully installed the file.
+2023-05-07 15:08:32.385   -- File entry --
+2023-05-07 15:08:32.385   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-crt-filesystem-l1-1-0.dll
+2023-05-07 15:08:32.385   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.385   Installing the file.
+2023-05-07 15:08:32.385   Successfully installed the file.
+2023-05-07 15:08:32.385   -- File entry --
+2023-05-07 15:08:32.385   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-crt-heap-l1-1-0.dll
+2023-05-07 15:08:32.385   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.385   Installing the file.
+2023-05-07 15:08:32.385   Successfully installed the file.
+2023-05-07 15:08:32.385   -- File entry --
+2023-05-07 15:08:32.385   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-crt-locale-l1-1-0.dll
+2023-05-07 15:08:32.385   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.385   Installing the file.
+2023-05-07 15:08:32.395   Successfully installed the file.
+2023-05-07 15:08:32.395   -- File entry --
+2023-05-07 15:08:32.395   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-crt-math-l1-1-0.dll
+2023-05-07 15:08:32.395   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.395   Installing the file.
+2023-05-07 15:08:32.395   Successfully installed the file.
+2023-05-07 15:08:32.395   -- File entry --
+2023-05-07 15:08:32.395   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-crt-multibyte-l1-1-0.dll
+2023-05-07 15:08:32.395   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.395   Installing the file.
+2023-05-07 15:08:32.395   Successfully installed the file.
+2023-05-07 15:08:32.395   -- File entry --
+2023-05-07 15:08:32.395   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-crt-private-l1-1-0.dll
+2023-05-07 15:08:32.395   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.395   Installing the file.
+2023-05-07 15:08:32.395   Successfully installed the file.
+2023-05-07 15:08:32.395   -- File entry --
+2023-05-07 15:08:32.395   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-crt-process-l1-1-0.dll
+2023-05-07 15:08:32.395   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.405   Installing the file.
+2023-05-07 15:08:32.405   Successfully installed the file.
+2023-05-07 15:08:32.405   -- File entry --
+2023-05-07 15:08:32.405   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-crt-runtime-l1-1-0.dll
+2023-05-07 15:08:32.405   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.405   Installing the file.
+2023-05-07 15:08:32.405   Successfully installed the file.
+2023-05-07 15:08:32.405   -- File entry --
+2023-05-07 15:08:32.405   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-crt-stdio-l1-1-0.dll
+2023-05-07 15:08:32.405   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.405   Installing the file.
+2023-05-07 15:08:32.405   Successfully installed the file.
+2023-05-07 15:08:32.405   -- File entry --
+2023-05-07 15:08:32.405   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-crt-string-l1-1-0.dll
+2023-05-07 15:08:32.405   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.405   Installing the file.
+2023-05-07 15:08:32.405   Successfully installed the file.
+2023-05-07 15:08:32.405   -- File entry --
+2023-05-07 15:08:32.405   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-crt-time-l1-1-0.dll
+2023-05-07 15:08:32.405   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.405   Installing the file.
+2023-05-07 15:08:32.415   Successfully installed the file.
+2023-05-07 15:08:32.415   -- File entry --
+2023-05-07 15:08:32.415   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-crt-utility-l1-1-0.dll
+2023-05-07 15:08:32.415   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.415   Installing the file.
+2023-05-07 15:08:32.415   Successfully installed the file.
+2023-05-07 15:08:32.415   -- File entry --
+2023-05-07 15:08:32.415   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\api-ms-win-eventing-provider-l1-1-0.dll
+2023-05-07 15:08:32.415   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.415   Installing the file.
+2023-05-07 15:08:32.415   Successfully installed the file.
+2023-05-07 15:08:32.415   -- File entry --
+2023-05-07 15:08:32.415   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\apisetschema.dll
+2023-05-07 15:08:32.415   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:32.415   Installing the file.
+2023-05-07 15:08:32.415   Successfully installed the file.
+2023-05-07 15:08:32.415   -- File entry --
+2023-05-07 15:08:32.415   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\ApowerREC.exe
+2023-05-07 15:08:32.415   Time stamp of our file: 2023-03-21 17:31:36.000
+2023-05-07 15:08:32.415   Installing the file.
+2023-05-07 15:08:33.110   Successfully installed the file.
+2023-05-07 15:08:33.110   -- File entry --
+2023-05-07 15:08:33.110   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\ApowerREC.exe.config
+2023-05-07 15:08:33.110   Time stamp of our file: 2022-08-31 10:42:12.000
+2023-05-07 15:08:33.110   Installing the file.
+2023-05-07 15:08:33.120   Successfully installed the file.
+2023-05-07 15:08:33.120   -- File entry --
+2023-05-07 15:08:33.120   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Apowersoft.CommUtilities.Base.V2.dll
+2023-05-07 15:08:33.120   Time stamp of our file: 2023-03-20 13:40:44.000
+2023-05-07 15:08:33.120   Installing the file.
+2023-05-07 15:08:33.141   Successfully installed the file.
+2023-05-07 15:08:33.141   -- File entry --
+2023-05-07 15:08:33.141   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Apowersoft.CommUtilities.dll
+2023-05-07 15:08:33.141   Time stamp of our file: 2023-03-20 13:41:18.000
+2023-05-07 15:08:33.141   Installing the file.
+2023-05-07 15:08:33.210   Successfully installed the file.
+2023-05-07 15:08:33.210   -- File entry --
+2023-05-07 15:08:33.210   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Apowersoft.CommUtilities.Native.dll
+2023-05-07 15:08:33.210   Time stamp of our file: 2023-03-20 13:41:08.000
+2023-05-07 15:08:33.210   Installing the file.
+2023-05-07 15:08:33.410   Successfully installed the file.
+2023-05-07 15:08:33.410   -- File entry --
+2023-05-07 15:08:33.410   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Apowersoft.Commutilities.Services.Base.dll
+2023-05-07 15:08:33.410   Time stamp of our file: 2022-08-12 14:01:16.000
+2023-05-07 15:08:33.410   Installing the file.
+2023-05-07 15:08:33.430   Successfully installed the file.
+2023-05-07 15:08:33.430   -- File entry --
+2023-05-07 15:08:33.430   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Apowersoft.Commutilities.Services.Http.dll
+2023-05-07 15:08:33.430   Time stamp of our file: 2022-08-23 18:18:32.000
+2023-05-07 15:08:33.430   Installing the file.
+2023-05-07 15:08:33.450   Successfully installed the file.
+2023-05-07 15:08:33.450   -- File entry --
+2023-05-07 15:08:33.450   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Apowersoft.Commutilities.Services.Oss.dll
+2023-05-07 15:08:33.450   Time stamp of our file: 2022-09-30 14:18:32.000
+2023-05-07 15:08:33.450   Installing the file.
+2023-05-07 15:08:33.461   Successfully installed the file.
+2023-05-07 15:08:33.461   -- File entry --
+2023-05-07 15:08:33.461   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Apowersoft.CommUtilities.Services.RecCloud.dll
+2023-05-07 15:08:33.461   Time stamp of our file: 2023-01-04 19:43:04.000
+2023-05-07 15:08:33.461   Installing the file.
+2023-05-07 15:08:33.480   Successfully installed the file.
+2023-05-07 15:08:33.480   -- File entry --
+2023-05-07 15:08:33.480   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Apowersoft.Net.Upload.dll
+2023-05-07 15:08:33.480   Time stamp of our file: 2022-08-31 10:42:44.000
+2023-05-07 15:08:33.480   Installing the file.
+2023-05-07 15:08:33.505   Successfully installed the file.
+2023-05-07 15:08:33.505   -- File entry --
+2023-05-07 15:08:33.505   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Apowersoft.UI.Prompts.dll
+2023-05-07 15:08:33.505   Time stamp of our file: 2022-08-31 10:42:12.000
+2023-05-07 15:08:33.505   Installing the file.
+2023-05-07 15:08:33.525   Successfully installed the file.
+2023-05-07 15:08:33.525   -- File entry --
+2023-05-07 15:08:33.525   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Apowersoft.Utils.Imaging.dll
+2023-05-07 15:08:33.525   Time stamp of our file: 2023-03-21 17:30:40.000
+2023-05-07 15:08:33.525   Installing the file.
+2023-05-07 15:08:33.547   Successfully installed the file.
+2023-05-07 15:08:33.547   -- File entry --
+2023-05-07 15:08:33.547   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Apowersoft.Utils.MouseHook.dll
+2023-05-07 15:08:33.547   Time stamp of our file: 2022-08-31 10:42:12.000
+2023-05-07 15:08:33.547   Installing the file.
+2023-05-07 15:08:33.556   Successfully installed the file.
+2023-05-07 15:08:33.556   -- File entry --
+2023-05-07 15:08:33.556   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Apowersoft.Utils.Record.dll
+2023-05-07 15:08:33.556   Time stamp of our file: 2023-03-21 17:32:34.000
+2023-05-07 15:08:33.556   Installing the file.
+2023-05-07 15:08:33.576   Successfully installed the file.
+2023-05-07 15:08:33.576   -- File entry --
+2023-05-07 15:08:33.576   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Apowersoft.Utils.ScreenshotLight.dll
+2023-05-07 15:08:33.576   Time stamp of our file: 2023-03-21 17:30:46.000
+2023-05-07 15:08:33.576   Installing the file.
+2023-05-07 15:08:33.656   Successfully installed the file.
+2023-05-07 15:08:33.656   -- File entry --
+2023-05-07 15:08:33.656   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Apowersoft.Utils.WinAPI.dll
+2023-05-07 15:08:33.656   Time stamp of our file: 2023-03-21 17:30:40.000
+2023-05-07 15:08:33.656   Installing the file.
+2023-05-07 15:08:33.667   Successfully installed the file.
+2023-05-07 15:08:33.667   -- File entry --
+2023-05-07 15:08:33.667   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\avcodec-58.dll
+2023-05-07 15:08:33.677   Time stamp of our file: 2023-03-21 17:32:48.000
+2023-05-07 15:08:33.677   Installing the file.
+2023-05-07 15:08:34.588   Successfully installed the file.
+2023-05-07 15:08:34.588   -- File entry --
+2023-05-07 15:08:34.588   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\avformat-58.dll
+2023-05-07 15:08:34.588   Time stamp of our file: 2023-03-21 17:32:42.000
+2023-05-07 15:08:34.588   Installing the file.
+2023-05-07 15:08:34.838   Successfully installed the file.
+2023-05-07 15:08:34.838   -- File entry --
+2023-05-07 15:08:34.838   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\avutil-56.dll
+2023-05-07 15:08:34.838   Time stamp of our file: 2022-08-31 10:42:44.000
+2023-05-07 15:08:34.838   Installing the file.
+2023-05-07 15:08:34.858   Successfully installed the file.
+2023-05-07 15:08:34.858   -- File entry --
+2023-05-07 15:08:34.858   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\concrt140.dll
+2023-05-07 15:08:34.858   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:34.858   Installing the file.
+2023-05-07 15:08:34.867   Successfully installed the file.
+2023-05-07 15:08:34.867   -- File entry --
+2023-05-07 15:08:34.867   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\D3DCompiler_43.dll
+2023-05-07 15:08:34.867   Time stamp of our file: 2022-09-21 19:03:52.000
+2023-05-07 15:08:34.867   Installing the file.
+2023-05-07 15:08:34.927   Successfully installed the file.
+2023-05-07 15:08:34.927   -- File entry --
+2023-05-07 15:08:34.927   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\d3dx9_43.dll
+2023-05-07 15:08:34.927   Time stamp of our file: 2022-09-21 19:03:52.000
+2023-05-07 15:08:34.927   Installing the file.
+2023-05-07 15:08:34.987   Successfully installed the file.
+2023-05-07 15:08:34.987   -- File entry --
+2023-05-07 15:08:34.987   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\ffmpeg.exe
+2023-05-07 15:08:34.987   Time stamp of our file: 2023-03-21 17:32:28.000
+2023-05-07 15:08:34.987   Installing the file.
+2023-05-07 15:08:34.987   Successfully installed the file.
+2023-05-07 15:08:34.987   -- File entry --
+2023-05-07 15:08:34.987   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Foxit.dll
+2023-05-07 15:08:34.987   Time stamp of our file: 2022-08-31 10:42:12.000
+2023-05-07 15:08:34.987   Installing the file.
+2023-05-07 15:08:34.997   Successfully installed the file.
+2023-05-07 15:08:34.997   -- File entry --
+2023-05-07 15:08:34.997   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\GalaSoft.MvvmLight.dll
+2023-05-07 15:08:34.997   Time stamp of our file: 2016-04-23 00:28:12.000
+2023-05-07 15:08:34.997   Installing the file.
+2023-05-07 15:08:34.997   Successfully installed the file.
+2023-05-07 15:08:34.997   -- File entry --
+2023-05-07 15:08:34.997   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\GalaSoft.MvvmLight.Extras.dll
+2023-05-07 15:08:34.997   Time stamp of our file: 2016-04-23 00:28:12.000
+2023-05-07 15:08:34.997   Installing the file.
+2023-05-07 15:08:34.997   Successfully installed the file.
+2023-05-07 15:08:34.997   -- File entry --
+2023-05-07 15:08:34.997   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\GalaSoft.MvvmLight.Platform.dll
+2023-05-07 15:08:34.997   Time stamp of our file: 2016-04-23 00:28:12.000
+2023-05-07 15:08:34.997   Installing the file.
+2023-05-07 15:08:34.997   Successfully installed the file.
+2023-05-07 15:08:34.997   -- File entry --
+2023-05-07 15:08:34.997   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Google.ProtocolBuffers.dll
+2023-05-07 15:08:35.007   Time stamp of our file: 2023-01-11 13:52:34.000
+2023-05-07 15:08:35.007   Installing the file.
+2023-05-07 15:08:35.017   Successfully installed the file.
+2023-05-07 15:08:35.017   -- File entry --
+2023-05-07 15:08:35.017   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Hardcodet.Wpf.TaskbarNotification.dll
+2023-05-07 15:08:35.017   Time stamp of our file: 2023-03-21 17:30:38.000
+2023-05-07 15:08:35.017   Installing the file.
+2023-05-07 15:08:35.017   Successfully installed the file.
+2023-05-07 15:08:35.017   -- File entry --
+2023-05-07 15:08:35.017   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\help32.dll
+2023-05-07 15:08:35.017   Time stamp of our file: 2023-03-21 17:31:50.000
+2023-05-07 15:08:35.017   Installing the file.
+2023-05-07 15:08:35.032   Successfully installed the file.
+2023-05-07 15:08:35.032   -- File entry --
+2023-05-07 15:08:35.032   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\help64.dll
+2023-05-07 15:08:35.032   Time stamp of our file: 2023-03-21 17:31:56.000
+2023-05-07 15:08:35.032   Installing the file.
+2023-05-07 15:08:35.033   Successfully installed the file.
+2023-05-07 15:08:35.033   -- File entry --
+2023-05-07 15:08:35.033   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\helper32.exe
+2023-05-07 15:08:35.033   Time stamp of our file: 2023-03-21 17:32:02.000
+2023-05-07 15:08:35.033   Installing the file.
+2023-05-07 15:08:35.044   Successfully installed the file.
+2023-05-07 15:08:35.044   -- File entry --
+2023-05-07 15:08:35.044   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\helper64.exe
+2023-05-07 15:08:35.044   Time stamp of our file: 2023-03-21 17:32:08.000
+2023-05-07 15:08:35.044   Installing the file.
+2023-05-07 15:08:35.045   Successfully installed the file.
+2023-05-07 15:08:35.045   -- File entry --
+2023-05-07 15:08:35.045   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\inject.dll
+2023-05-07 15:08:35.045   Time stamp of our file: 2023-03-15 20:40:42.000
+2023-05-07 15:08:35.045   Installing the file.
+2023-05-07 15:08:35.045   Successfully installed the file.
+2023-05-07 15:08:35.045   -- File entry --
+2023-05-07 15:08:35.045   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Interop.TaskScheduler.dll
+2023-05-07 15:08:35.045   Time stamp of our file: 2022-08-31 10:42:44.000
+2023-05-07 15:08:35.045   Installing the file.
+2023-05-07 15:08:35.045   Successfully installed the file.
+2023-05-07 15:08:35.055   -- File entry --
+2023-05-07 15:08:35.055   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\libffmpeg.dll
+2023-05-07 15:08:35.055   Time stamp of our file: 2023-01-04 19:43:06.000
+2023-05-07 15:08:35.055   Installing the file.
+2023-05-07 15:08:35.714   Successfully installed the file.
+2023-05-07 15:08:35.714   -- File entry --
+2023-05-07 15:08:35.714   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\libpng16.dll
+2023-05-07 15:08:35.714   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:35.714   Installing the file.
+2023-05-07 15:08:35.724   Successfully installed the file.
+2023-05-07 15:08:35.724   -- File entry --
+2023-05-07 15:08:35.724   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\libyuv.dll
+2023-05-07 15:08:35.724   Time stamp of our file: 2022-08-31 10:42:12.000
+2023-05-07 15:08:35.724   Installing the file.
+2023-05-07 15:08:35.734   Successfully installed the file.
+2023-05-07 15:08:35.734   -- File entry --
+2023-05-07 15:08:35.734   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\log.xml
+2023-05-07 15:08:35.734   Time stamp of our file: 2022-08-31 10:42:14.000
+2023-05-07 15:08:35.734   Installing the file.
+2023-05-07 15:08:35.734   Successfully installed the file.
+2023-05-07 15:08:35.734   -- File entry --
+2023-05-07 15:08:35.734   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\log4net.dll
+2023-05-07 15:08:35.734   Time stamp of our file: 2017-03-09 03:26:22.000
+2023-05-07 15:08:35.734   Installing the file.
+2023-05-07 15:08:35.744   Successfully installed the file.
+2023-05-07 15:08:35.744   -- File entry --
+2023-05-07 15:08:35.744   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\LZ4Sharp.dll
+2023-05-07 15:08:35.744   Time stamp of our file: 2023-01-11 13:52:34.000
+2023-05-07 15:08:35.744   Installing the file.
+2023-05-07 15:08:35.754   Successfully installed the file.
+2023-05-07 15:08:35.754   -- File entry --
+2023-05-07 15:08:35.754   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Microsoft.Expression.Interactions.dll
+2023-05-07 15:08:35.754   Time stamp of our file: 2023-01-11 13:52:34.000
+2023-05-07 15:08:35.754   Installing the file.
+2023-05-07 15:08:35.754   Successfully installed the file.
+2023-05-07 15:08:35.754   -- File entry --
+2023-05-07 15:08:35.754   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Microsoft.Practices.ServiceLocation.dll
+2023-05-07 15:08:35.754   Time stamp of our file: 2014-05-05 19:25:44.000
+2023-05-07 15:08:35.754   Installing the file.
+2023-05-07 15:08:35.754   Successfully installed the file.
+2023-05-07 15:08:35.754   -- File entry --
+2023-05-07 15:08:35.754   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Microsoft.Win32.TaskScheduler.dll
+2023-05-07 15:08:35.754   Time stamp of our file: 2022-08-31 10:42:12.000
+2023-05-07 15:08:35.754   Installing the file.
+2023-05-07 15:08:35.764   Successfully installed the file.
+2023-05-07 15:08:35.764   -- File entry --
+2023-05-07 15:08:35.764   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Microsoft.WindowsAPICodePack.dll
+2023-05-07 15:08:35.764   Time stamp of our file: 2015-03-23 13:40:52.000
+2023-05-07 15:08:35.764   Installing the file.
+2023-05-07 15:08:35.774   Successfully installed the file.
+2023-05-07 15:08:35.774   -- File entry --
+2023-05-07 15:08:35.774   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Microsoft.WindowsAPICodePack.Shell.dll
+2023-05-07 15:08:35.774   Time stamp of our file: 2015-03-23 13:54:36.000
+2023-05-07 15:08:35.774   Installing the file.
+2023-05-07 15:08:35.784   Successfully installed the file.
+2023-05-07 15:08:35.784   -- File entry --
+2023-05-07 15:08:35.784   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\msvcp100.dll
+2023-05-07 15:08:35.784   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:35.784   Installing the file.
+2023-05-07 15:08:35.794   Successfully installed the file.
+2023-05-07 15:08:35.794   -- File entry --
+2023-05-07 15:08:35.794   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\msvcp140.dll
+2023-05-07 15:08:35.794   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:35.794   Installing the file.
+2023-05-07 15:08:35.804   Successfully installed the file.
+2023-05-07 15:08:35.804   -- File entry --
+2023-05-07 15:08:35.804   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\msvcp60.dll
+2023-05-07 15:08:35.804   Time stamp of our file: 2022-08-31 10:42:12.000
+2023-05-07 15:08:35.804   Installing the file.
+2023-05-07 15:08:35.814   Successfully installed the file.
+2023-05-07 15:08:35.814   -- File entry --
+2023-05-07 15:08:35.814   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\msvcr100.dll
+2023-05-07 15:08:35.814   Time stamp of our file: 2022-08-31 10:42:12.000
+2023-05-07 15:08:35.814   Installing the file.
+2023-05-07 15:08:35.844   Successfully installed the file.
+2023-05-07 15:08:35.844   -- File entry --
+2023-05-07 15:08:35.844   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\MvvmDialogs.dll
+2023-05-07 15:08:35.844   Time stamp of our file: 2023-03-21 17:30:38.000
+2023-05-07 15:08:35.844   Installing the file.
+2023-05-07 15:08:35.844   Successfully installed the file.
+2023-05-07 15:08:35.844   -- File entry --
+2023-05-07 15:08:35.844   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Newtonsoft.Json.dll
+2023-05-07 15:08:35.844   Time stamp of our file: 2016-06-14 07:06:14.000
+2023-05-07 15:08:35.844   Installing the file.
+2023-05-07 15:08:35.864   Successfully installed the file.
+2023-05-07 15:08:35.864   -- File entry --
+2023-05-07 15:08:35.864   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\PdfSharp.dll
+2023-05-07 15:08:35.864   Time stamp of our file: 2022-08-31 10:42:12.000
+2023-05-07 15:08:35.864   Installing the file.
+2023-05-07 15:08:35.884   Successfully installed the file.
+2023-05-07 15:08:35.884   -- File entry --
+2023-05-07 15:08:35.884   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\pthreadVSE2.dll
+2023-05-07 15:08:35.884   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:35.884   Installing the file.
+2023-05-07 15:08:35.884   Successfully installed the file.
+2023-05-07 15:08:35.884   -- File entry --
+2023-05-07 15:08:35.884   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SetDisplay32.exe
+2023-05-07 15:08:35.884   Time stamp of our file: 2023-03-21 17:32:16.000
+2023-05-07 15:08:35.884   Installing the file.
+2023-05-07 15:08:35.894   Successfully installed the file.
+2023-05-07 15:08:35.894   -- File entry --
+2023-05-07 15:08:35.894   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SetDisplay32.exe.config
+2023-05-07 15:08:35.894   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:35.894   Installing the file.
+2023-05-07 15:08:35.894   Successfully installed the file.
+2023-05-07 15:08:35.894   -- File entry --
+2023-05-07 15:08:35.894   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SetDisplay64.exe
+2023-05-07 15:08:35.894   Time stamp of our file: 2023-03-21 17:32:22.000
+2023-05-07 15:08:35.894   Installing the file.
+2023-05-07 15:08:35.894   Successfully installed the file.
+2023-05-07 15:08:35.894   -- File entry --
+2023-05-07 15:08:35.894   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SetDisplay64.exe.config
+2023-05-07 15:08:35.894   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:35.894   Installing the file.
+2023-05-07 15:08:35.894   Successfully installed the file.
+2023-05-07 15:08:35.894   -- File entry --
+2023-05-07 15:08:35.894   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SharpDX.Direct3D9.dll
+2023-05-07 15:08:35.894   Time stamp of our file: 2017-05-30 18:03:50.000
+2023-05-07 15:08:35.894   Installing the file.
+2023-05-07 15:08:35.904   Successfully installed the file.
+2023-05-07 15:08:35.904   -- File entry --
+2023-05-07 15:08:35.904   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SharpDX.dll
+2023-05-07 15:08:35.904   Time stamp of our file: 2017-05-30 18:02:06.000
+2023-05-07 15:08:35.904   Installing the file.
+2023-05-07 15:08:35.914   Successfully installed the file.
+2023-05-07 15:08:35.914   -- File entry --
+2023-05-07 15:08:35.914   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SharpDX.Mathematics.dll
+2023-05-07 15:08:35.914   Time stamp of our file: 2017-05-30 18:03:04.000
+2023-05-07 15:08:35.914   Installing the file.
+2023-05-07 15:08:35.924   Successfully installed the file.
+2023-05-07 15:08:35.924   -- File entry --
+2023-05-07 15:08:35.924   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SharpVectors.Converters.dll
+2023-05-07 15:08:35.924   Time stamp of our file: 2022-08-31 10:42:12.000
+2023-05-07 15:08:35.924   Installing the file.
+2023-05-07 15:08:35.924   Successfully installed the file.
+2023-05-07 15:08:35.924   -- File entry --
+2023-05-07 15:08:35.924   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SharpVectors.Converters.Wpf.dll
+2023-05-07 15:08:35.924   Time stamp of our file: 2022-07-11 18:29:24.000
+2023-05-07 15:08:35.924   Installing the file.
+2023-05-07 15:08:35.934   Successfully installed the file.
+2023-05-07 15:08:35.934   -- File entry --
+2023-05-07 15:08:35.934   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SharpVectors.Core.dll
+2023-05-07 15:08:35.934   Time stamp of our file: 2022-07-11 18:28:34.000
+2023-05-07 15:08:35.934   Installing the file.
+2023-05-07 15:08:35.934   Successfully installed the file.
+2023-05-07 15:08:35.934   -- File entry --
+2023-05-07 15:08:35.934   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SharpVectors.Css.dll
+2023-05-07 15:08:35.934   Time stamp of our file: 2022-07-11 18:28:46.000
+2023-05-07 15:08:35.934   Installing the file.
+2023-05-07 15:08:35.944   Successfully installed the file.
+2023-05-07 15:08:35.944   -- File entry --
+2023-05-07 15:08:35.944   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SharpVectors.Dom.dll
+2023-05-07 15:08:35.944   Time stamp of our file: 2022-07-11 18:28:44.000
+2023-05-07 15:08:35.944   Installing the file.
+2023-05-07 15:08:35.944   Successfully installed the file.
+2023-05-07 15:08:35.944   -- File entry --
+2023-05-07 15:08:35.944   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SharpVectors.Model.dll
+2023-05-07 15:08:35.944   Time stamp of our file: 2022-07-11 18:28:50.000
+2023-05-07 15:08:35.944   Installing the file.
+2023-05-07 15:08:35.964   Successfully installed the file.
+2023-05-07 15:08:35.964   -- File entry --
+2023-05-07 15:08:35.964   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SharpVectors.Rendering.Gdi.dll
+2023-05-07 15:08:35.964   Time stamp of our file: 2022-07-11 18:29:14.000
+2023-05-07 15:08:35.964   Installing the file.
+2023-05-07 15:08:35.974   Successfully installed the file.
+2023-05-07 15:08:35.974   -- File entry --
+2023-05-07 15:08:35.974   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SharpVectors.Rendering.Wpf.dll
+2023-05-07 15:08:35.974   Time stamp of our file: 2022-07-11 18:29:20.000
+2023-05-07 15:08:35.974   Installing the file.
+2023-05-07 15:08:35.984   Successfully installed the file.
+2023-05-07 15:08:35.984   -- File entry --
+2023-05-07 15:08:35.984   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SharpVectors.Runtime.dll
+2023-05-07 15:08:35.984   Time stamp of our file: 2022-08-31 10:42:12.000
+2023-05-07 15:08:35.984   Installing the file.
+2023-05-07 15:08:35.984   Successfully installed the file.
+2023-05-07 15:08:35.984   -- File entry --
+2023-05-07 15:08:35.984   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\SharpVectors.Runtime.Wpf.dll
+2023-05-07 15:08:35.984   Time stamp of our file: 2022-07-11 18:28:38.000
+2023-05-07 15:08:35.984   Installing the file.
+2023-05-07 15:08:35.984   Successfully installed the file.
+2023-05-07 15:08:35.984   -- File entry --
+2023-05-07 15:08:35.984   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Splat.dll
+2023-05-07 15:08:35.984   Time stamp of our file: 2014-07-25 17:05:10.000
+2023-05-07 15:08:35.984   Installing the file.
+2023-05-07 15:08:35.994   Successfully installed the file.
+2023-05-07 15:08:35.994   -- File entry --
+2023-05-07 15:08:35.994   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\swresample-3.dll
+2023-05-07 15:08:35.994   Time stamp of our file: 2023-03-21 17:32:54.000
+2023-05-07 15:08:35.994   Installing the file.
+2023-05-07 15:08:36.004   Successfully installed the file.
+2023-05-07 15:08:36.004   -- File entry --
+2023-05-07 15:08:36.004   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\System.Net.FtpClient.dll
+2023-05-07 15:08:36.004   Time stamp of our file: 2022-08-31 10:42:12.000
+2023-05-07 15:08:36.004   Installing the file.
+2023-05-07 15:08:36.004   Successfully installed the file.
+2023-05-07 15:08:36.004   -- File entry --
+2023-05-07 15:08:36.004   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\System.Reactive.Core.dll
+2023-05-07 15:08:36.004   Time stamp of our file: 2016-11-21 22:01:42.000
+2023-05-07 15:08:36.004   Installing the file.
+2023-05-07 15:08:36.014   Successfully installed the file.
+2023-05-07 15:08:36.014   -- File entry --
+2023-05-07 15:08:36.014   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\System.Reactive.Interfaces.dll
+2023-05-07 15:08:36.014   Time stamp of our file: 2016-11-21 22:02:06.000
+2023-05-07 15:08:36.014   Installing the file.
+2023-05-07 15:08:36.014   Successfully installed the file.
+2023-05-07 15:08:36.014   -- File entry --
+2023-05-07 15:08:36.014   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\System.Windows.Interactivity.dll
+2023-05-07 15:08:36.014   Time stamp of our file: 2022-06-13 14:44:38.000
+2023-05-07 15:08:36.014   Installing the file.
+2023-05-07 15:08:36.014   Successfully installed the file.
+2023-05-07 15:08:36.014   -- File entry --
+2023-05-07 15:08:36.014   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\test.mp3
+2023-05-07 15:08:36.014   Time stamp of our file: 2023-03-15 20:40:42.000
+2023-05-07 15:08:36.014   Installing the file.
+2023-05-07 15:08:36.024   Successfully installed the file.
+2023-05-07 15:08:36.024   -- File entry --
+2023-05-07 15:08:36.024   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\turbojpeg.dll
+2023-05-07 15:08:36.024   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:36.024   Installing the file.
+2023-05-07 15:08:36.034   Successfully installed the file.
+2023-05-07 15:08:36.034   -- File entry --
+2023-05-07 15:08:36.034   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\ucrtbase.dll
+2023-05-07 15:08:36.034   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:36.034   Installing the file.
+2023-05-07 15:08:36.064   Successfully installed the file.
+2023-05-07 15:08:36.064   -- File entry --
+2023-05-07 15:08:36.064   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\vccorlib140.dll
+2023-05-07 15:08:36.064   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:36.064   Installing the file.
+2023-05-07 15:08:36.074   Successfully installed the file.
+2023-05-07 15:08:36.074   -- File entry --
+2023-05-07 15:08:36.074   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\vcomp140.dll
+2023-05-07 15:08:36.074   Time stamp of our file: 2023-01-04 19:43:06.000
+2023-05-07 15:08:36.074   Installing the file.
+2023-05-07 15:08:36.074   Successfully installed the file.
+2023-05-07 15:08:36.074   -- File entry --
+2023-05-07 15:08:36.074   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\vcruntime140.dll
+2023-05-07 15:08:36.074   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:36.074   Installing the file.
+2023-05-07 15:08:36.084   Successfully installed the file.
+2023-05-07 15:08:36.084   -- File entry --
+2023-05-07 15:08:36.084   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\websocket-sharp.dll
+2023-05-07 15:08:36.084   Time stamp of our file: 2023-01-11 13:52:34.000
+2023-05-07 15:08:36.084   Installing the file.
+2023-05-07 15:08:36.094   Successfully installed the file.
+2023-05-07 15:08:36.094   -- File entry --
+2023-05-07 15:08:36.094   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\WXDXFilter.dll
+2023-05-07 15:08:36.094   Time stamp of our file: 2023-01-09 13:36:26.000
+2023-05-07 15:08:36.094   Installing the file.
+2023-05-07 15:08:36.104   Successfully installed the file.
+2023-05-07 15:08:36.104   -- File entry --
+2023-05-07 15:08:36.104   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\WXMedia.dll
+2023-05-07 15:08:36.104   Time stamp of our file: 2023-03-21 17:31:44.000
+2023-05-07 15:08:36.104   Installing the file.
+2023-05-07 15:08:36.184   Successfully installed the file.
+2023-05-07 15:08:36.184   -- File entry --
+2023-05-07 15:08:36.194   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Xceed.Wpf.Toolkit.dll
+2023-05-07 15:08:36.194   Time stamp of our file: 2022-08-31 10:42:12.000
+2023-05-07 15:08:36.194   Installing the file.
+2023-05-07 15:08:36.224   Successfully installed the file.
+2023-05-07 15:08:36.224   -- File entry --
+2023-05-07 15:08:36.224   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\zlib1.dll
+2023-05-07 15:08:36.224   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:36.224   Installing the file.
+2023-05-07 15:08:36.234   Successfully installed the file.
+2023-05-07 15:08:36.234   -- File entry --
+2023-05-07 15:08:36.234   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\zlog.dll
+2023-05-07 15:08:36.234   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:36.234   Installing the file.
+2023-05-07 15:08:36.234   Successfully installed the file.
+2023-05-07 15:08:36.234   -- File entry --
+2023-05-07 15:08:36.234   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\32\inject.dll
+2023-05-07 15:08:36.234   Time stamp of our file: 2023-03-15 20:40:42.000
+2023-05-07 15:08:36.234   Installing the file.
+2023-05-07 15:08:36.234   Creating directory: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\32
+2023-05-07 15:08:36.244   Successfully installed the file.
+2023-05-07 15:08:36.244   -- File entry --
+2023-05-07 15:08:36.244   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\64\inject.dll
+2023-05-07 15:08:36.244   Time stamp of our file: 2023-03-15 20:40:42.000
+2023-05-07 15:08:36.244   Installing the file.
+2023-05-07 15:08:36.244   Creating directory: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\64
+2023-05-07 15:08:36.244   Successfully installed the file.
+2023-05-07 15:08:36.244   -- File entry --
+2023-05-07 15:08:36.244   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Arabic.xml
+2023-05-07 15:08:36.244   Time stamp of our file: 2023-03-09 14:27:38.000
+2023-05-07 15:08:36.244   Installing the file.
+2023-05-07 15:08:36.244   Creating directory: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang
+2023-05-07 15:08:36.244   Successfully installed the file.
+2023-05-07 15:08:36.244   -- File entry --
+2023-05-07 15:08:36.244   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\ChineseSimplified.xml
+2023-05-07 15:08:36.244   Time stamp of our file: 2023-03-09 14:27:38.000
+2023-05-07 15:08:36.244   Installing the file.
+2023-05-07 15:08:36.254   Successfully installed the file.
+2023-05-07 15:08:36.254   -- File entry --
+2023-05-07 15:08:36.254   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\ChineseTraditional.xml
+2023-05-07 15:08:36.254   Time stamp of our file: 2023-03-09 14:27:38.000
+2023-05-07 15:08:36.254   Installing the file.
+2023-05-07 15:08:36.254   Successfully installed the file.
+2023-05-07 15:08:36.254   -- File entry --
+2023-05-07 15:08:36.254   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Czech.xml
+2023-05-07 15:08:36.254   Time stamp of our file: 2023-03-09 14:27:38.000
+2023-05-07 15:08:36.254   Installing the file.
+2023-05-07 15:08:36.254   Successfully installed the file.
+2023-05-07 15:08:36.254   -- File entry --
+2023-05-07 15:08:36.254   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Danish.xml
+2023-05-07 15:08:36.254   Time stamp of our file: 2023-03-09 14:27:38.000
+2023-05-07 15:08:36.254   Installing the file.
+2023-05-07 15:08:36.264   Successfully installed the file.
+2023-05-07 15:08:36.264   -- File entry --
+2023-05-07 15:08:36.264   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Dutch.xml
+2023-05-07 15:08:36.264   Time stamp of our file: 2023-03-09 14:27:38.000
+2023-05-07 15:08:36.264   Installing the file.
+2023-05-07 15:08:36.264   Successfully installed the file.
+2023-05-07 15:08:36.264   -- File entry --
+2023-05-07 15:08:36.264   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\English.xml
+2023-05-07 15:08:36.264   Time stamp of our file: 2023-03-09 14:27:38.000
+2023-05-07 15:08:36.264   Installing the file.
+2023-05-07 15:08:36.264   Successfully installed the file.
+2023-05-07 15:08:36.264   -- File entry --
+2023-05-07 15:08:36.264   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Finnish.xml
+2023-05-07 15:08:36.264   Time stamp of our file: 2023-03-09 14:27:38.000
+2023-05-07 15:08:36.264   Installing the file.
+2023-05-07 15:08:36.264   Successfully installed the file.
+2023-05-07 15:08:36.264   -- File entry --
+2023-05-07 15:08:36.264   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\French.xml
+2023-05-07 15:08:36.264   Time stamp of our file: 2023-03-09 14:27:38.000
+2023-05-07 15:08:36.264   Installing the file.
+2023-05-07 15:08:36.274   Successfully installed the file.
+2023-05-07 15:08:36.274   -- File entry --
+2023-05-07 15:08:36.274   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\German.xml
+2023-05-07 15:08:36.274   Time stamp of our file: 2023-03-09 14:27:38.000
+2023-05-07 15:08:36.274   Installing the file.
+2023-05-07 15:08:36.274   Successfully installed the file.
+2023-05-07 15:08:36.274   -- File entry --
+2023-05-07 15:08:36.274   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Greek.xml
+2023-05-07 15:08:36.274   Time stamp of our file: 2023-03-09 14:27:38.000
+2023-05-07 15:08:36.274   Installing the file.
+2023-05-07 15:08:36.274   Successfully installed the file.
+2023-05-07 15:08:36.274   -- File entry --
+2023-05-07 15:08:36.274   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Hungarian.xml
+2023-05-07 15:08:36.274   Time stamp of our file: 2023-01-04 19:43:06.000
+2023-05-07 15:08:36.274   Installing the file.
+2023-05-07 15:08:36.284   Successfully installed the file.
+2023-05-07 15:08:36.284   -- File entry --
+2023-05-07 15:08:36.284   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Indonesian.xml
+2023-05-07 15:08:36.284   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:36.284   Installing the file.
+2023-05-07 15:08:36.284   Successfully installed the file.
+2023-05-07 15:08:36.284   -- File entry --
+2023-05-07 15:08:36.284   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Italian.xml
+2023-05-07 15:08:36.284   Time stamp of our file: 2023-01-04 19:43:06.000
+2023-05-07 15:08:36.284   Installing the file.
+2023-05-07 15:08:36.284   Successfully installed the file.
+2023-05-07 15:08:36.284   -- File entry --
+2023-05-07 15:08:36.284   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Japanese.xml
+2023-05-07 15:08:36.284   Time stamp of our file: 2023-03-09 14:27:38.000
+2023-05-07 15:08:36.284   Installing the file.
+2023-05-07 15:08:36.284   Successfully installed the file.
+2023-05-07 15:08:36.284   -- File entry --
+2023-05-07 15:08:36.284   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Korean.xml
+2023-05-07 15:08:36.284   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:36.284   Installing the file.
+2023-05-07 15:08:36.294   Successfully installed the file.
+2023-05-07 15:08:36.294   -- File entry --
+2023-05-07 15:08:36.294   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Malay.xml
+2023-05-07 15:08:36.294   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:36.294   Installing the file.
+2023-05-07 15:08:36.304   Successfully installed the file.
+2023-05-07 15:08:36.304   -- File entry --
+2023-05-07 15:08:36.304   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Norwegian.xml
+2023-05-07 15:08:36.304   Time stamp of our file: 2023-01-04 19:43:06.000
+2023-05-07 15:08:36.304   Installing the file.
+2023-05-07 15:08:36.314   Successfully installed the file.
+2023-05-07 15:08:36.314   -- File entry --
+2023-05-07 15:08:36.314   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Polish.xml
+2023-05-07 15:08:36.314   Time stamp of our file: 2023-01-04 19:43:06.000
+2023-05-07 15:08:36.314   Installing the file.
+2023-05-07 15:08:36.324   Successfully installed the file.
+2023-05-07 15:08:36.324   -- File entry --
+2023-05-07 15:08:36.324   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Portuguese.xml
+2023-05-07 15:08:36.324   Time stamp of our file: 2023-03-09 14:27:38.000
+2023-05-07 15:08:36.324   Installing the file.
+2023-05-07 15:08:36.324   Successfully installed the file.
+2023-05-07 15:08:36.324   -- File entry --
+2023-05-07 15:08:36.324   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\PortugueseBrazil.xml
+2023-05-07 15:08:36.324   Time stamp of our file: 2023-03-09 14:27:38.000
+2023-05-07 15:08:36.324   Installing the file.
+2023-05-07 15:08:36.324   Successfully installed the file.
+2023-05-07 15:08:36.324   -- File entry --
+2023-05-07 15:08:36.324   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Russian.xml
+2023-05-07 15:08:36.324   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:36.324   Installing the file.
+2023-05-07 15:08:36.324   Successfully installed the file.
+2023-05-07 15:08:36.324   -- File entry --
+2023-05-07 15:08:36.324   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Slovenian.xml
+2023-05-07 15:08:36.324   Time stamp of our file: 2022-08-31 10:42:46.000
+2023-05-07 15:08:36.324   Installing the file.
+2023-05-07 15:08:36.334   Successfully installed the file.
+2023-05-07 15:08:36.334   -- File entry --
+2023-05-07 15:08:36.334   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Spanish.xml
+2023-05-07 15:08:36.334   Time stamp of our file: 2023-03-09 14:27:38.000
+2023-05-07 15:08:36.334   Installing the file.
+2023-05-07 15:08:36.334   Successfully installed the file.
+2023-05-07 15:08:36.334   -- File entry --
+2023-05-07 15:08:36.334   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Swedish.xml
+2023-05-07 15:08:36.334   Time stamp of our file: 2023-01-04 19:43:06.000
+2023-05-07 15:08:36.334   Installing the file.
+2023-05-07 15:08:36.334   Successfully installed the file.
+2023-05-07 15:08:36.334   -- File entry --
+2023-05-07 15:08:36.334   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Lang\Turkish.xml
+2023-05-07 15:08:36.334   Time stamp of our file: 2023-01-04 19:43:06.000
+2023-05-07 15:08:36.334   Installing the file.
+2023-05-07 15:08:36.344   Successfully installed the file.
+2023-05-07 15:08:36.344   -- File entry --
+2023-05-07 15:08:36.344   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Plugins\Apowersoft.Utils.WinAPI.dll
+2023-05-07 15:08:36.344   Time stamp of our file: 2023-02-01 16:24:28.000
+2023-05-07 15:08:36.344   Installing the file.
+2023-05-07 15:08:36.344   Creating directory: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Plugins
+2023-05-07 15:08:36.344   Successfully installed the file.
+2023-05-07 15:08:36.344   -- File entry --
+2023-05-07 15:08:36.344   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Plugins\KeyboardGrab.exe
+2023-05-07 15:08:36.344   Time stamp of our file: 2023-03-21 17:33:02.000
+2023-05-07 15:08:36.344   Installing the file.
+2023-05-07 15:08:36.354   Successfully installed the file.
+2023-05-07 15:08:36.354   -- File entry --
+2023-05-07 15:08:36.354   Dest filename: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\Plugins\KeyboardGrab.exe.config
+2023-05-07 15:08:36.354   Time stamp of our file: 2023-02-01 16:24:28.000
+2023-05-07 15:08:36.354   Installing the file.
+2023-05-07 15:08:36.354   Successfully installed the file.
+2023-05-07 15:08:36.354   -- Icon entry --
+2023-05-07 15:08:36.354   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Apowersoft\ApowerREC\ApowerREC.lnk
+2023-05-07 15:08:36.354   Creating directory: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Apowersoft
+2023-05-07 15:08:36.404   Creating directory: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Apowersoft\ApowerREC
+2023-05-07 15:08:36.414   Creating the icon.
+2023-05-07 15:08:36.444   Successfully created the icon.
+2023-05-07 15:08:36.474   -- Icon entry --
+2023-05-07 15:08:36.474   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Apowersoft\ApowerREC\ApowerREC na Internet.url
+2023-05-07 15:08:36.474   Creating the icon.
+2023-05-07 15:08:36.474   Successfully created the icon.
+2023-05-07 15:08:36.504   -- Icon entry --
+2023-05-07 15:08:36.504   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Apowersoft\ApowerREC\Desinstalar ApowerREC.lnk
+2023-05-07 15:08:36.504   Creating the icon.
+2023-05-07 15:08:36.504   Successfully created the icon.
+2023-05-07 15:08:36.514   -- Icon entry --
+2023-05-07 15:08:36.514   Dest filename: C:\Users\Public\Desktop\ApowerREC.lnk
+2023-05-07 15:08:36.514   Creating the icon.
+2023-05-07 15:08:36.514   Successfully created the icon.
+2023-05-07 15:08:36.524   -- INI entry --
+2023-05-07 15:08:36.524   Dest filename: C:\Users\jonatas.ferreira\AppData\Roaming\Apowersoft\ApowerREC\config.ini 
+2023-05-07 15:08:36.524   Section: Main
+2023-05-07 15:08:36.524   Entry: Language
+2023-05-07 15:08:36.524   Value: PortugueseBrazil
+2023-05-07 15:08:36.524   Creating directory: C:\Users\jonatas.ferreira\AppData\Roaming\Apowersoft
+2023-05-07 15:08:36.524   Creating directory: C:\Users\jonatas.ferreira\AppData\Roaming\Apowersoft\ApowerREC
+2023-05-07 15:08:36.524   Updating the .INI file.
+2023-05-07 15:08:36.524   Successfully updated the .INI file.
+2023-05-07 15:08:36.524   -- INI entry --
+2023-05-07 15:08:36.524   Dest filename: C:\Users\jonatas.ferreira\AppData\Roaming\Apowersoft\ApowerREC\config.ini
+2023-05-07 15:08:36.524   Section: Main
+2023-05-07 15:08:36.524   Entry: Version
+2023-05-07 15:08:36.524   Value: V1.6.3.18 (Build 03/21/2023)
+2023-05-07 15:08:36.524   Updating the .INI file.
+2023-05-07 15:08:36.524   Successfully updated the .INI file.
+2023-05-07 15:08:36.524   -- INI entry --
+2023-05-07 15:08:36.524   Dest filename: C:\Users\jonatas.ferreira\AppData\Roaming\Apowersoft\ApowerREC\config.ini 
+2023-05-07 15:08:36.524   Section: Main
+2023-05-07 15:08:36.524   Entry: DetailedTrialTip
+2023-05-07 15:08:36.524   Value: False
+2023-05-07 15:08:36.524   Updating the .INI file.
+2023-05-07 15:08:36.524   Successfully updated the .INI file.
+2023-05-07 15:08:36.524   -- INI entry --
+2023-05-07 15:08:36.524   Dest filename: C:\Users\jonatas.ferreira\AppData\Roaming\Apowersoft\ApowerREC\config.ini 
+2023-05-07 15:08:36.524   Section: Main
+2023-05-07 15:08:36.524   Entry: AppType
+2023-05-07 15:08:36.524   Value: saas
+2023-05-07 15:08:36.524   Updating the .INI file.
+2023-05-07 15:08:36.534   Successfully updated the .INI file.
+2023-05-07 15:08:36.534   -- INI entry --
+2023-05-07 15:08:36.534   Dest filename: C:\Users\jonatas.ferreira\AppData\Roaming\Apowersoft\ApowerREC\config.ini 
+2023-05-07 15:08:36.534   Section: Main
+2023-05-07 15:08:36.534   Entry: PackageType
+2023-05-07 15:08:36.534   Value: 0
+2023-05-07 15:08:36.534   Updating the .INI file.
+2023-05-07 15:08:36.534   Successfully updated the .INI file.
+2023-05-07 15:08:36.534   -- INI entry --
+2023-05-07 15:08:36.534   Dest filename: C:\Users\jonatas.ferreira\AppData\Roaming\Apowersoft\ApowerREC\config.ini 
+2023-05-07 15:08:36.534   Section: Main
+2023-05-07 15:08:36.534   Entry: Purchasetype
+2023-05-07 15:08:36.534   Value: 1
+2023-05-07 15:08:36.534   Updating the .INI file.
+2023-05-07 15:08:36.534   Successfully updated the .INI file.
+2023-05-07 15:08:36.534   -- INI entry --
+2023-05-07 15:08:36.534   Dest filename: C:\Users\jonatas.ferreira\AppData\Roaming\Apowersoft\ApowerREC\config.ini 
+2023-05-07 15:08:36.534   Section: Main
+2023-05-07 15:08:36.534   Entry: CommonType
+2023-05-07 15:08:36.534   Value: 1
+2023-05-07 15:08:36.534   Updating the .INI file.
+2023-05-07 15:08:36.534   Successfully updated the .INI file.
+2023-05-07 15:08:36.534   -- Registry entry --
+2023-05-07 15:08:36.534   Key: HKEY_CLASSES_ROOT\ApowerREC
+2023-05-07 15:08:36.534   Creating or opening the key.
+2023-05-07 15:08:36.544   Creating or setting the value.
+2023-05-07 15:08:36.544   Successfully created or set the value.
+2023-05-07 15:08:36.544   -- Registry entry --
+2023-05-07 15:08:36.544   Key: HKEY_CLASSES_ROOT\ApowerREC
+2023-05-07 15:08:36.544   Value name: URL Protocol
+2023-05-07 15:08:36.544   Creating or opening the key.
+2023-05-07 15:08:36.544   Creating or setting the value.
+2023-05-07 15:08:36.544   Successfully created or set the value.
+2023-05-07 15:08:36.544   -- Registry entry --
+2023-05-07 15:08:36.544   Key: HKEY_CLASSES_ROOT\ApowerREC\shell\open\command
+2023-05-07 15:08:36.544   Creating or opening the key.
+2023-05-07 15:08:36.544   Creating or setting the value.
+2023-05-07 15:08:36.544   Successfully created or set the value.
+2023-05-07 15:08:36.544   -- Registry entry --
+2023-05-07 15:08:36.544   Key: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa\FipsAlgorithmPolicy
+2023-05-07 15:08:36.544   Value name: Enabled
+2023-05-07 15:08:36.544   Creating or opening the key.
+2023-05-07 15:08:36.544   Deleting the value.
+2023-05-07 15:08:36.544   Creating or setting the value.
+2023-05-07 15:08:36.544   Successfully created or set the value.
+2023-05-07 15:08:36.544   -- Registry entry --
+2023-05-07 15:08:36.544   Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_BROWSER_EMULATION
+2023-05-07 15:08:36.544   Value name: ApowerREC.exe
+2023-05-07 15:08:36.544   Creating or opening the key.
+2023-05-07 15:08:36.544   Creating or setting the value.
+2023-05-07 15:08:36.544   Successfully created or set the value.
+2023-05-07 15:08:36.544   -- Registry entry --
+2023-05-07 15:08:36.544   Key: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_BROWSER_EMULATION
+2023-05-07 15:08:36.544   Value name: ApowerREC.exe
+2023-05-07 15:08:36.544   Non-default bitness: 64-bit
+2023-05-07 15:08:36.544   Creating or opening the key.
+2023-05-07 15:08:36.544   Creating or setting the value.
+2023-05-07 15:08:36.544   Successfully created or set the value.
+2023-05-07 15:08:36.544   -- Registry entry --
+2023-05-07 15:08:36.544   Key: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa\FipsAlgorithmPolicy
+2023-05-07 15:08:36.544   Value name: Enabled
+2023-05-07 15:08:36.544   Creating or opening the key.
+2023-05-07 15:08:36.544   Successfully created the key.
+2023-05-07 15:08:36.544   Saving uninstall information.
+2023-05-07 15:08:36.544   Writing uninstaller messages: C:\Users\jonatas.ferreira\Desktop\site do israel\ApowerREC\unins000.msg
+2023-05-07 15:08:36.544   Creating new uninstall key: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{6F2998B2-21F7-4CEF-94B2-C3919D939CF9}_is1
+2023-05-07 15:08:36.544   Writing uninstall key values.
+2023-05-07 15:08:36.544   Detected previous non administrative install? No
+2023-05-07 15:08:36.544   Detected previous administrative 64-bit install? No
+2023-05-07 15:08:36.554   Installation process succeeded.
+2023-05-07 15:08:39.756   Need to restart Windows? No
+2023-05-07 15:08:39.766   Extracting temporary file: C:\Users\JONATA~1.FER\AppData\Local\Temp\is-AIPV3.tmp\PinTaskbarTool.exe
